@@ -52,4 +52,4 @@ next-env.d.ts
 # VSCode settings (optional)
 .vscode/
 
-/app/generated
+/src/generated
